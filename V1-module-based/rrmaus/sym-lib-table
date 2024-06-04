@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32_Library")(type "KiCad")(uri "${KIPRJMOD}/ESP32_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "TFT_Library")(type "KiCad")(uri "${KIPRJMOD}/TFT_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "PWR_Library")(type "KiCad")(uri "${KIPRJMOD}/PWR_Library.kicad_sym")(options "")(descr ""))
+)
